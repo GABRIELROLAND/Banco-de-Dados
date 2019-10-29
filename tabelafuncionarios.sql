@@ -14,9 +14,10 @@ insert into departamento(codigo,descricao) values(1,'TI');
 insert into departamento(codigo,descricao) values(2,'MKT');
 insert into departamento(codigo,descricao) values(3,'FIN');
 insert into departamento(codigo,descricao) values(4,'PESSOAL');
+insert into departamento(codigo,descricao) values(5,'OUTROS');
 
 insert into funcionario (matricula,nome,sexo)values(10,'JOSE','M');
 insert into funcionario (matricula,nome,sexo)values(30,'JOAO','M');
 insert into funcionario (matricula,nome,sexo)values(50,'MARIA','F');
-
+insert into funcionario (matricula,nome,sexo)values(50,'Joana','F');
 
